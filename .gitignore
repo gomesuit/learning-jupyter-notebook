@@ -1,2 +1,4 @@
-tmp/
-downloads/
+tmp/*
+downloads/*
+
+!.gitkeep
