@@ -1,4 +1,6 @@
 tmp/*
 downloads/*
 
+.ipynb_checkpoints/
+
 !.gitkeep
