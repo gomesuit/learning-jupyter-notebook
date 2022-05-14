@@ -8,6 +8,8 @@ notebook = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+japanize-matplotlib = "*"
+jupyterlab = "*"
 
 [dev-packages]
 

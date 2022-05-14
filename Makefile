@@ -9,7 +9,7 @@ init:
 run:
 	pyenv exec \
 		pipenv run \
-		jupyter notebook
+		jupyter lab
 
 download:
 	curl https://files.grouplens.org/datasets/movielens/ml-20m.zip \
