@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "211235895de56f1220763c1245bce7c12b18b7c87215bad0fc6984f7e077318a"
+            "sha256": "061883ae7135ac2f00d93c78efb92173fe74e382c3d34824fc0a633ef012cd43"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -323,6 +323,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==3.1.2"
         },
+        "joblib": {
+            "hashes": [
+                "sha256:4158fcecd13733f8be669be0683b96ebdbbd38d23559f54dca7205aea1bf1e35",
+                "sha256:f21f109b3c7ff9d95f8387f752d0d9c34a02aa2f7060c2135f465da0e5160ff6"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.1.0"
+        },
         "json5": {
             "hashes": [
                 "sha256:0fa6e4d3ef062f93ba9cf2a9103fe8e68c7917dfa33519ae3ac8c7e48e3c84ff"
@@ -615,7 +623,7 @@
                 "sha256:fade0d4f4d292b6f39951b6836d7a3c7ef5b2347f3c420cd9820a1d90d794802",
                 "sha256:fdf3c08bce27132395d3c3ba1503cac12e17282358cb4bddc25cc46b0aca07aa"
             ],
-            "markers": "python_version >= '3.10'",
+            "markers": "python_version >= '3.8'",
             "version": "==1.22.3"
         },
         "openpyxl": {
@@ -931,6 +939,27 @@
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
             "version": "==2.27.1"
         },
+        "scikit-learn": {
+            "hashes": [
+                "sha256:05f9f004afe1b415922b2ff9453a191e3082acf1065aa0f0b238250f9e147606",
+                "sha256:068ee35f08681079a9aece49236f40837dbffebe047b0813bf71873fa976b132",
+                "sha256:18aabbb26cbc1cf52583c1f1ecf6b5ff540d334f173e23122db43f97adbe0b2b",
+                "sha256:1ef67ac0d44d9ecb36bc33ccc421f683aaeb42bdd72d8a97601eaded3b43f2e4",
+                "sha256:2318fc717c9ff7eb3834bbb2c3be63768e97bb3221bbf70c01537e34e4fb8a1c",
+                "sha256:25b8d471169711dee7667969e7db3d33c372c13701cd2ab6783d0e85b2aab300",
+                "sha256:47c31f7e9a5689c3a2cbdf72e78570b33fa9abb42a1ca10d787516de9c4e37a4",
+                "sha256:502865e025d3222530e350783a59cc37538effde64767721d830ceaae8bb3d42",
+                "sha256:80f9904f5b1356adfc32406725dd94c8cc9c8d265047d98390033a6c238cbb29",
+                "sha256:892be17fc261dff4097c061880586226d47ccd0426d9283091e2ca65da36e645",
+                "sha256:c10cd62443a9968c71fb9f1c7844f3f28189666f789d5a204dbad7463169b172",
+                "sha256:cab8a8bef603f0fced7b245f7c4f77826602fd94f7c54ccb09b36b177dde246d",
+                "sha256:dc6681e2f99a4a5bc0682dc4e87192daeb0e9e64da36b35e672b56156e0cc867",
+                "sha256:e4d41245915d0fc6fea26029349ff187b2992ef6588863e8570fc95a24697fd0",
+                "sha256:ff60f63f1584d7daebfc93e69addd39760de49ae4325db5638c324cfde41c6c7"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==1.1.0"
+        },
         "scipy": {
             "hashes": [
                 "sha256:011d4386b53b933142f58a652aa0f149c9b9242abd4f900b9f4ea5fbafc86b89",
@@ -991,6 +1020,13 @@
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
         },
+        "sklearn": {
+            "hashes": [
+                "sha256:e23001573aa194b834122d2b9562459bf5ae494a2d59ca6b8aa22c85a44c0e31"
+            ],
+            "index": "pypi",
+            "version": "==0.0"
+        },
         "sniffio": {
             "hashes": [
                 "sha256:471b71698eac1c2112a40ce2752bb2f4a4814c22a54a3eed3676bc0f5ca9f663",
@@ -1021,6 +1057,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==0.13.3"
+        },
+        "threadpoolctl": {
+            "hashes": [
+                "sha256:8b99adda265feb6773280df41eece7b2e6561b772d21ffd52e372f999024907b",
+                "sha256:a335baacfaa4400ae1f0d8e3a58d6674d2f8828e3716bb2802c44955ad391380"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==3.1.0"
         },
         "tinycss2": {
             "hashes": [

@@ -11,6 +11,7 @@ seaborn = "*"
 japanize-matplotlib = "*"
 jupyterlab = "*"
 openpyxl = "*"
+sklearn = "*"
 
 [dev-packages]
 
